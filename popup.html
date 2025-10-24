@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSV Autofill</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        min-width: 350px;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 10px;
+      }
+      th,
+      td {
+        border: 1px solid #ccc;
+        padding: 4px;
+        text-align: left;
+      }
+      tr.selected {
+        background: #e0f7fa;
+      }
+      #fillBtn {
+        margin-top: 10px;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>Select a Row to Autofill</h3>
+
+
+    <div id="tableContainer"></div>
+    <button id="fillBtn" disabled>Autofill Selected Row</button>
+    <script src="popup.js"></script>
+  </body>
+</html>
