@@ -9,9 +9,9 @@ Headers: status	email	password	firstname	lastname	country	state	gender	day	month
 
 ## Example (single record)
 
-| status | email | password | firstname | lastname | country | state | gender | day | month | year | preferredLanguage
+| status | email | password | firstname | lastname | country | state | gender | day | month | year | preferredLanguage |
 |---|---|---|---|---|---|---|---|---|---:|---:|---|---:|---:|---:|
-| N/A | example@gmail.com | Tickets123! | John | Doe | USA | US-FL | male | 22 | 11 | 1997 | en-GB
+| N/A | example@gmail.com | Tickets123! | John | Doe | USA | US-FL | male | 22 | 11 | 1997 | en-GB |
 
 ---
 
