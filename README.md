@@ -1,5 +1,3 @@
-Headers: status	email	password	firstname	lastname	country	state	gender	day	month	year	preferredLanguage
-
 # Dashboard Header & Example Data
 
 **Header (fields):**  
